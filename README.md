@@ -11,7 +11,7 @@ This project is an interactive Machine Learning web application designed to clas
 * **Model Serialization:** Joblib
 
 ## 🚀 Live Demo
-Check out the live web application here: **[Insert your Streamlit Link Here]**
+Check out the live web application here: **[https://sms-spam-detector-k2.streamlit.app/]**
 
 ## 🧠 How It Works
 The core of this application is a **Multinomial Naive Bayes** classifier, a probabilistic algorithm that is an industry standard for text classification.
