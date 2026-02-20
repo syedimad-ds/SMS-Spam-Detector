@@ -13,6 +13,9 @@ This project is an interactive Machine Learning web application designed to clas
 ## 🚀 Live Demo
 Check out the live web application here: **[https://sms-spam-detector-k2.streamlit.app/]**
 
+## 📊 Dataset
+Kaggle Dataset: **[https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset]**
+
 ## 🧠 How It Works
 The core of this application is a **Multinomial Naive Bayes** classifier, a probabilistic algorithm that is an industry standard for text classification.
 1. **Text Preprocessing:** The user's input text is fed into a `CountVectorizer` pipeline, which tokenizes the text and converts it into a "Bag of Words" (a numerical matrix representing word frequencies).
