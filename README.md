@@ -24,6 +24,7 @@ The core of this application is a **Multinomial Naive Bayes** classifier, a prob
 
 ## 📂 Repository Structure
 * `app.py`: The Streamlit web application script.
+* `spam_detection.ipynb`: The Jupyter Notebook containing text preprocessing, exploratory data analysis (EDA), and Multinomial Naive Bayes model training.
 * `spam_model.pkl`: The serialized Machine Learning pipeline (containing both the text vectorizer and the Naive Bayes model).
 * `requirements.txt`: The dependencies required to run the app.
 
